@@ -2,6 +2,8 @@
 
 PearInterview is a web application designed to assist developers to groom their technical interview skills using a peer programing approach. The application provides a interactive code editor in which users can work collaboratively to solve an interview question. At the same time, a random question is displayed depending on the selected dificulty. Once the users have finished the interview, both users can rate their peers providing valuable feedback.
 
+Original project repo: https://github.com/hatchways/team-hulk
+
 ## Table of Contents
 
 - [General Info](#general-info)
